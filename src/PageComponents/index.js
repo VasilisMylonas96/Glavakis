@@ -10,7 +10,7 @@ import Team from './team';
 import Footer from './footer';
 
 const Index = () => {
-    document.title = " Landing | Velzon - React Admin & Dashboard Template";
+    document.title = " Glavakis";
     
     window.onscroll = function () {
         scrollFunction();
