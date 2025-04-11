@@ -1,0 +1,37 @@
+.text-highlight {
+    color: #28a745;
+    background: linear-gradient(90deg, #a8e063, #56ab2f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.section-heading {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #444;
+}
+
+.custom-list .list-group-item {
+    background-color: #f8f9fa;
+    border: none;
+    transition: all 0.3s ease;
+    border-left: 5px solid #28a745;
+}
+
+.custom-list .list-group-item:hover {
+    background-color: #e9f5ee;
+    transform: scale(1.02);
+}
+
+.custom-card {
+    border: none;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    background: #ffffff;
+}
+
+.custom-card:hover {
+    background: #f3fdf6;
+    box-shadow: 0 8px 24px rgba(40, 167, 69, 0.2);
+    transform: translateY(-5px);
+}
