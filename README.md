@@ -1,2 +1,0 @@
-# Glavakis
-Glavakis site
