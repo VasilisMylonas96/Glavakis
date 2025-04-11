@@ -1,6 +1,5 @@
 import React from "react";
 import {Card, CardBody, Col, Container, Row} from "reactstrap";
-import {Link} from "react-router-dom";
 import anastasia from "../assets/glavakis/anastasia.jpeg";
 import Mourzinos from "../assets/glavakis/Mourzinos.jpeg";
 

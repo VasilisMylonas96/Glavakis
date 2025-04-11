@@ -7,7 +7,6 @@ import Reviews from './reviews';
 import Counter from './counter';
 import WorkProcess from './workProcess';
 import Team from './team';
-import Contact from './contact';
 import Footer from './footer';
 
 const Index = () => {

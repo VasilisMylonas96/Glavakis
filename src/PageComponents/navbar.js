@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 // Import Images
 import logodark from "../assets/glavakis/glavakistrees-logo.png";
-import logolight from "../assets/images/logo-light.png";
+
 
 const Navbar = () => {
     const [isOpenMenu, setisOpenMenu] = useState(false);
